@@ -1,4 +1,4 @@
-Portrait pack for the game Star Sector.
+Portrait pack for the game Star Sector. For version 0.98a.
 
 Game can be purchased here: https://fractalsoftworks.com/
 
